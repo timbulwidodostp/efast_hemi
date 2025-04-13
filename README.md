@@ -1,6 +1,8 @@
 # efast_hemi
 Exploratory Factor Analysis with Structured Residuals Use efast_hemi (efast) With (In) R Software
 
+https://www.youtube.com/watch?v=NVvnAKqgEWU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
